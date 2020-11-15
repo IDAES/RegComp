@@ -11,7 +11,7 @@ setuptools.setup(
     description="A tool to compare linear regression methods",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/osarwar/RegComp,
+    url="https://github.com/osarwar/RegComp",
     packages=setuptools.find_packages(),
     install_requires=[
     'pandas',
