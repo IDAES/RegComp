@@ -1,5 +1,6 @@
 # RegressionCompare
 *Owais Sarwar, Carnegie Mellon University*
+
 *Nick Sahinidis, Georgia Institue of Technology* 
 
 A straightforward tool for automatic building of and comparison of linear regression models. Models are built using cross-validation and compared 'under one hood.' 
