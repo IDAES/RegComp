@@ -52,4 +52,4 @@ print(rc.SummaryTable)
 
 # Look at residual plot for variable 4 
 
-rc.residual_figures[2].show()
+rc.residual_figures[4].show()

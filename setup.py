@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="regcomp", 
-    version="0.0.6",
+    version="0.0.7",
     author="Owais Sarwar",
     author_email="osarwar@andrew.cmu.edu",
     description="A tool to compare linear regression methods",

@@ -109,7 +109,7 @@ class RegCompare:
 
 			self.SummaryTable = pd.concat([self.SummaryTable, pd.DataFrame([model.AUROC for model in self.models], index=self.methods, columns=["AUROC"])], axis=1)
 			self.SummaryTable = pd.concat([self.SummaryTable, pd.DataFrame([model.Accuracy for model in self.models], index=self.methods, columns=["Accuracy"])], axis=1)
-			self.SummaryTable = pd.concat([self.SummaryTable, pd.DataFrame([model.Rsquared for model in self.models], index=self.methods, columns=["Rsquared"])], axis=1)
+			self.SummaryTable = pd.concat([self.SummaryTable, pd.DataFrame([model.F1Score for model in self.models], index=self.methods, columns=["F1Score"])], axis=1)
 			self.SummaryTable = pd.concat([self.SummaryTable, pd.DataFrame([model.MatthewsCoef for model in self.models], index=self.methods, columns=["MatthewsCoef"])], axis=1)
 			self.SummaryTable = pd.concat([self.SummaryTable, pd.DataFrame([model.Precision for model in self.models], index=self.methods, columns=["Precision"])], axis=1)
 			self.SummaryTable = pd.concat([self.SummaryTable, pd.DataFrame([model.Recall for model in self.models], index=self.methods, columns=["Recall"])], axis=1)
