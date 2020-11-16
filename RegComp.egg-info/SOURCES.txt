@@ -1,0 +1,17 @@
+README.md
+setup.py
+RegComp.egg-info/PKG-INFO
+RegComp.egg-info/SOURCES.txt
+RegComp.egg-info/dependency_links.txt
+RegComp.egg-info/requires.txt
+RegComp.egg-info/top_level.txt
+regcomp/__init__.py
+regcomp/main.py
+regcomp.egg-info/PKG-INFO
+regcomp.egg-info/SOURCES.txt
+regcomp.egg-info/dependency_links.txt
+regcomp.egg-info/requires.txt
+regcomp.egg-info/top_level.txt
+regcomp/regression_methods/__init__.py
+regcomp/regression_methods/elasticnet.py
+regcomp/regression_methods/omp.py
