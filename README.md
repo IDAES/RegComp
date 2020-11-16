@@ -1,4 +1,4 @@
-# RegComp
+# RegressionCompare
 *Owais Sarwar, Carnegie Mellon University" 
 *Nick Sahinidis, Georgia Institue of Technology* 
 
@@ -93,7 +93,7 @@ rc.residual_figures[2].show()
 
 -`random_state`: Int for reproduceability (default: `None`)
 
--`methods options`: Dictionary of dictionaries for changing options for regression methods (e.g. {"ElasticNet":{"cv":6, "max_iter":200}, "OMP":{"intercept":False}}) for defaults, please see links for each algorithm above
+-`methods options`: Dictionary of dictionaries for changing options for regression methods (e.g. `{"ElasticNet":{"cv":6, "max_iter":200}, "OMP":{"intercept":False}}`) for defaults, please see links for each algorithm above
 
 
 #### Attributes of RegCompare object after Initialization 
