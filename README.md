@@ -151,6 +151,6 @@ Currently, the code is in the early stages. In the near future, we hope to add:
 -Additional regression methods - in the same framework as the current methods (based on the scikit-learn framework). 
 
 Any and all contributions are welcome. 
-## Paper 
+## Paper & Acknowledgement 
 
-For a quick overview on the state-of-the art methods for linear regression, please see the following [paper](https://www.e-publications.org/ims/submission/STS/user/submissionFile/46450?confirm=fccc7ad1). 
+For a quick overview on the state-of-the art methods for linear regression, please see the following [paper](https://www.e-publications.org/ims/submission/STS/user/submissionFile/46450?confirm=fccc7ad1). This work was conducted as part of the Institute for the Design of Advanced Energy Systems (IDAES) with funding from the Office of Fossil Energy, Cross-Cutting Research, U.S. Department of Energy.
